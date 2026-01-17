@@ -221,6 +221,7 @@ curl -X POST http://localhost:8000/metrics \
   "value": 95,
   "timestamp": "2025-12-10T10:00:00"
 }'
+hoặc truy cập http://localhost:8000/docs để test trực tiếp trên swagger
 ```
 
 ➡️ Telegram sẽ nhận được alert ngay nếu vượt threshold.
