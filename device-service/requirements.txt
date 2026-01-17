@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+motor
+pika
+python-dotenv
+pydantic-settings

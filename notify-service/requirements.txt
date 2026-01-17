@@ -1,0 +1,5 @@
+motor
+pika
+requests
+python-dotenv
+pydantic-settings
