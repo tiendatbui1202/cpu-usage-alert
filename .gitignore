@@ -1,0 +1,40 @@
+# ===== Python =====
+
+**pycache**/
+*.py[cod]
+*.pyo
+*.pyd
+.env
+.venv
+venv/
+ENV/
+
+# ===== Docker =====
+
+*.log
+docker-compose.override.yml
+
+# ===== VSCode / IDE =====
+
+.vscode/
+.idea/
+*.iml
+
+# ===== OS =====
+
+.DS_Store
+Thumbs.db
+
+# ===== MongoDB =====
+
+*.bson
+*.lock
+
+# ===== RabbitMQ =====
+
+*.pid
+
+# ===== Others =====
+
+.env.*
+!.env.example
